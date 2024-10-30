@@ -1,7 +1,6 @@
 const articles = document.querySelectorAll("article");
 
 if (articles) {
-	console.log(articles)
   articles.forEach((a) => {
 			const text = a.textContent;
 			const wordMatchRegExp = /[^\s]+/g;
