@@ -1,1 +1,2 @@
 # simple_fake_news_classifier
+A rudimentary classifier for recognizing potential misinformation in web articles. Course work and a hobby project. The real life results of the classifier should be taken with a grain of salt.
